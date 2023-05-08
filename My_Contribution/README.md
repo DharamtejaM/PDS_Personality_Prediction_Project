@@ -1,6 +1,6 @@
 ----------MY CONTRIBUTION TO THE PROJECT----------
 
---> I have downloaded the dataset from kaggle.
+--> I have searched the relevant dataset suitable for our project from kaggle.
 
 --> I have done the data preprocessing - removing the null values, duplicates and removing irrelevant data (like age<18) by droping the rows and generating useful data for interpretation.
 
